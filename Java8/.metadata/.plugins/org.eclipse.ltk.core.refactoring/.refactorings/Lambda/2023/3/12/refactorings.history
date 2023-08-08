@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.sikku&apos; to &apos;com.pack1&apos;&#x0D;&#x0A;- Original project: &apos;Lambda&apos;&#x0D;&#x0A;- Original element: &apos;Lambda/src/com.sikku&apos;&#x0D;&#x0A;- Renamed element: &apos;Lambda/src/com.pack1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.sikku&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.sikku" name="com.pack1" qualified="false" references="true" stamp="1679596952966" textual="false" version="1.0"/>
+</session>

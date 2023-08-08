@@ -1,0 +1,42 @@
+package com.sikku.supplier;
+
+import java.util.function.Supplier;
+
+public class Test {
+
+	static Supplier<int[]> s=()->{
+		int[] otp = new int[6];
+		
+		for(int i=0; i<6; i++) {
+			otp[i] = (int)(Math.random()*10);
+		}
+		return otp;
+	};
+	
+	public static void main(String[] args) {
+		
+		for(int i: s.get()) {
+			System.out.println(i);
+		}
+		for(int i: s.get()) {
+			System.out.println(i);
+		}
+		for(int i: s.get()) {
+			System.out.println(i);
+		}
+		for(int i: s.get()) {
+			System.out.println(i);
+		}
+		for(int i: s.get()) {
+			System.out.println(i);
+		}
+		for(int i: s.get()) {
+			System.out.println(i);
+		}
+		for(int i: s.get()) {
+			System.out.println(i);
+		}
+
+	}
+
+}

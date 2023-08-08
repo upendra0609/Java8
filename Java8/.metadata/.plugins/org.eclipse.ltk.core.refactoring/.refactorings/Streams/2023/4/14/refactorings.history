@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.sikku.pack2&apos; to &apos;Streams/src&apos;&#x0D;&#x0A;- Original project: &apos;Streams&apos;&#x0D;&#x0A;- Destination element: &apos;Streams/src&apos;&#x0D;&#x0A;- Original element: &apos;Streams/src/com.sikku.pack2&apos;" description="Copy package" destination="/src" element1="/src&lt;com.sikku.pack2" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1680423784637" version="1.0"/>
+</session>
