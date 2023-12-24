@@ -1,0 +1,3 @@
+Optional is used to deal with null value. Present in java.util package.
+Optional as a single valued container that either contains a value or doesn't.
+
